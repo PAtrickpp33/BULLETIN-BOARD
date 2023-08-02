@@ -1,3 +1,7 @@
 # BULLETIN-BOARD
 BULLETIN BOARD is an open-source story prompting tool for modern world to       discover, create and share creative prompts
-https://www.awesomescreenshot.com/video/19606902?key=9a06675f32d90225bd6ce9b84ee1279f
+
+
+
+https://github.com/PAtrickpp33/BULLETIN-BOARD/assets/89336859/3bf9d678-6830-4f0c-a4d8-1d276d270fd2
+
