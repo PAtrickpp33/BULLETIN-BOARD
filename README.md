@@ -40,3 +40,28 @@ Static Site Generation (SSG): Pages are pre-rendered during the build time and s
 
 Incremental Static Generation (ISR): A hybrid of SSR and SSG. Pages are generated at build time but can be re-generated as new data becomes available. This approach ensures the user sees the latest content without sacrificing the benefits of static optimization.
 
+# Installation and usage
+1. Clone this repository
+```
+git clone https://github.com/3vdi/superprompts.git
+```
+2. Install dependencies
+```
+npm install
+```
+3. create a new folder .env and inside that folder
+```
+GOOGLE_ID = [your google id here]
+GOOGLE_CLIENT_SECRET = [your client secret id here]
+MONGODB_URI = [your mongodb cluster url]
+
+NEXTAUTH_URL = http://localhost:3000
+NEXTAUTH_URL_INTERNAL = http://localhost:3000
+NEXTAUTHSECRET = [a random secret key] for eg: tvDWxlmy4Weqt2Ky6er7rhBbeft98BsyHspzqHPmkuD=
+
+```
+4. Start a new terminal and run the development server
+```
+npm run dev
+```
+
