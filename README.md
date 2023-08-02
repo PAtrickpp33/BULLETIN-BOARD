@@ -43,7 +43,7 @@ Incremental Static Generation (ISR): A hybrid of SSR and SSG. Pages are generate
 # Installation and usage
 1. Clone this repository
 ```
-git clone https://github.com/3vdi/superprompts.git
+[git clone https://github.com/3vdi/superprompts.git](https://github.com/PAtrickpp33/BULLETIN-BOARD.git)
 ```
 2. Install dependencies
 ```
